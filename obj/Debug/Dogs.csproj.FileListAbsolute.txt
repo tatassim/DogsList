@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Новая папка\Dogs\Dogs\obj\Debug\Dogs.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Новая папка\Dogs\Dogs\obj\Debug\Dogs.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Новая папка\Dogs\Dogs\bin\Debug\Dogs.exe.config
+C:\Users\hp\Desktop\Новая папка\Dogs\Dogs\bin\Debug\Dogs.exe
+C:\Users\hp\Desktop\Новая папка\Dogs\Dogs\bin\Debug\Dogs.pdb
+C:\Users\hp\Desktop\Новая папка\Dogs\Dogs\obj\Debug\Dogs.exe
+C:\Users\hp\Desktop\Новая папка\Dogs\Dogs\obj\Debug\Dogs.pdb
